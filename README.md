@@ -7,3 +7,4 @@ although the units were corrected to Mt instead of kt in accordance with values 
 To view the widget, simply visit this link: https://chart-studio.plotly.com/~lukasj123/19.embed
 
 The HTML file and Python notebook files are also included in this repository. 
+Note that I have replaced my Plotly Chart Studio credentials with "MyUsername" and "MyAPIKey" in the notebook file to protect my personal information. 
